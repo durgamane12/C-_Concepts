@@ -8,27 +8,27 @@ namespace Calculator
 {
     public class Calculator
     {
-        int num1;
-        int num2;
+        int number1;
+        int number2;
         int result;
 
         void Add()
         {
-            result = num1 + num2;
+            result = number1 + number2;
             Console.WriteLine(result);
             Console.ReadLine();
         }
 
         void Sub()
         {
-            result = num1 - num2;
+            result = number1 - number2;
             Console.WriteLine(result);
             Console.ReadLine();
         }
 
         void Mul()
         {
-            result = num1 * num2;
+            result = number1 * number2;
             Console.WriteLine(result);
             Console.ReadLine();
         }
@@ -37,8 +37,8 @@ namespace Calculator
         {
             Calculator cal = new Calculator();
 
-            cal.num1 = 40;
-            cal.num2 = 20;
+            cal.number1 = 40;
+            cal.number2 = 20;
 
             cal.Add();
             cal.Sub();
@@ -46,8 +46,8 @@ namespace Calculator
 
             Calculator cal1 = new Calculator();
 
-            cal1.num1 = 100;
-            cal1.num2 = 40;
+            cal1.number1 = 100;
+            cal1.number2 = 40;
 
             cal1.Add();
             cal1.Sub();
