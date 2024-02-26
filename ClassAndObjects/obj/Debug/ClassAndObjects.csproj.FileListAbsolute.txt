@@ -1,0 +1,14 @@
+D:\fidility19_09\ClassAndObjects\bin\Debug\ClassAndObjects.exe.config
+D:\fidility19_09\ClassAndObjects\bin\Debug\ClassAndObjects.exe
+D:\fidility19_09\ClassAndObjects\bin\Debug\ClassAndObjects.pdb
+D:\fidility19_09\ClassAndObjects\obj\Debug\ClassAndObjects.csproj.AssemblyReference.cache
+D:\fidility19_09\ClassAndObjects\obj\Debug\ClassAndObjects.csproj.CoreCompileInputs.cache
+D:\fidility19_09\ClassAndObjects\obj\Debug\ClassAndObjects.exe
+D:\fidility19_09\ClassAndObjects\obj\Debug\ClassAndObjects.pdb
+C:\C#_Concepts\ClassAndObjects\bin\Debug\ClassAndObjects.exe.config
+C:\C#_Concepts\ClassAndObjects\bin\Debug\ClassAndObjects.exe
+C:\C#_Concepts\ClassAndObjects\bin\Debug\ClassAndObjects.pdb
+C:\C#_Concepts\ClassAndObjects\obj\Debug\ClassAndObjects.csproj.AssemblyReference.cache
+C:\C#_Concepts\ClassAndObjects\obj\Debug\ClassAndObjects.csproj.CoreCompileInputs.cache
+C:\C#_Concepts\ClassAndObjects\obj\Debug\ClassAndObjects.exe
+C:\C#_Concepts\ClassAndObjects\obj\Debug\ClassAndObjects.pdb
