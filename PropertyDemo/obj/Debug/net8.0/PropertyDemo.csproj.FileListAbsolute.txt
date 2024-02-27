@@ -1,0 +1,14 @@
+C:\C#_Concepts\PropertyDemo\bin\Debug\net8.0\PropertyDemo.exe
+C:\C#_Concepts\PropertyDemo\bin\Debug\net8.0\PropertyDemo.deps.json
+C:\C#_Concepts\PropertyDemo\bin\Debug\net8.0\PropertyDemo.runtimeconfig.json
+C:\C#_Concepts\PropertyDemo\bin\Debug\net8.0\PropertyDemo.dll
+C:\C#_Concepts\PropertyDemo\bin\Debug\net8.0\PropertyDemo.pdb
+C:\C#_Concepts\PropertyDemo\obj\Debug\net8.0\PropertyDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#_Concepts\PropertyDemo\obj\Debug\net8.0\PropertyDemo.AssemblyInfoInputs.cache
+C:\C#_Concepts\PropertyDemo\obj\Debug\net8.0\PropertyDemo.AssemblyInfo.cs
+C:\C#_Concepts\PropertyDemo\obj\Debug\net8.0\PropertyDemo.csproj.CoreCompileInputs.cache
+C:\C#_Concepts\PropertyDemo\obj\Debug\net8.0\PropertyDemo.dll
+C:\C#_Concepts\PropertyDemo\obj\Debug\net8.0\refint\PropertyDemo.dll
+C:\C#_Concepts\PropertyDemo\obj\Debug\net8.0\PropertyDemo.pdb
+C:\C#_Concepts\PropertyDemo\obj\Debug\net8.0\PropertyDemo.genruntimeconfig.cache
+C:\C#_Concepts\PropertyDemo\obj\Debug\net8.0\ref\PropertyDemo.dll
